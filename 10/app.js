@@ -1,3 +1,4 @@
+
 let periodo = document.getElementById("verificar").value
 
 if (periodo == "m") {
